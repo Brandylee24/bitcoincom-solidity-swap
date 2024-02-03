@@ -79,7 +79,7 @@
         "truffle-plugin-verify": "^0.5.27"
 	},
 	"dependencies": {
-		"@openzeppelin/contracts": "^4.3.1",
+		"@openzeppelin/contracts": "^4.9.5",
 		"@openzeppelin/test-helpers": "^0.5.13",
         "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
         "@nomiclabs/hardhat-ethers": "^2.1.1",
